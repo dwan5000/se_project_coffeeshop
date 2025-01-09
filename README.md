@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+My plans on improving this project is to really put more animations into my work so the pages could feel more alive. I also plan on adding more pages to the project such as a in-depth recipe page, or review page for people to look at.
